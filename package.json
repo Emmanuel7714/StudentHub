@@ -1,0 +1,13 @@
+{
+  "name": "studenthub",
+  "version": "0.1.0",
+  "description": "StudentHub — academic resource marketplace and student community for UNIBEN. Zero-dependency Node.js backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}

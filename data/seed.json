@@ -1,33 +1,57 @@
 {
   "university": "University of Benin",
-  "_sourceNote": "Faculty/department names verified against uniben.edu, eng.uniben.edu, envsci.uniben.edu and vetmed.uniben.edu (Sep 2026). Two current portal entries — Basic Clinical Sciences and Vocational & Technical Education — did not have a public department-level breakdown at the time of writing and are flagged below; verify directly with the faculty before relying on them.",
+  "_sourceNote": "StudentHub academic seed updated for the 2026 UNIBEN academic structure. The structure prioritizes current 2026 UNIBEN institutional/recruitment evidence and the current student-portal structure, while avoiding clearly stale placements from the older seed. Some current UNIBEN records reflect institutional transitions or overlapping/legacy classifications; therefore entries in this catalog represent current academic areas/programmes suitable for StudentHub selection and should not automatically be interpreted as a claim that every item is a separately constituted department.",
   "faculties": {
     "Agriculture": [
-      "Fisheries",
-      "Soil Science",
-      "Crop Science",
-      "Animal Science",
-      "Forestry and Wildlife",
       "Agricultural Economics and Extension Services",
-      "Food Science and Nutrition"
+      "Animal Science",
+      "Aquaculture and Fisheries Management",
+      "Crop Science",
+      "Food Science and Nutrition",
+      "Forestry and Wildlife",
+      "Forest Resources and Wildlife Management",
+      "Soil Science"
     ],
+
     "Arts": [
       "English and Literature",
       "Fine and Applied Arts",
       "Foreign Languages",
       "History and International Studies",
       "Linguistics and African Languages",
-      "Philosophy and Religions",
-      "Theatre Arts and Mass Communication"
+      "Philosophy",
+      "Religions",
+      "Theatre Arts"
     ],
+
+    "Basic Clinical Sciences": [
+      "Anatomic Pathology",
+      "Chemical Pathology",
+      "Clinical Pharmacology and Therapeutics",
+      "Haematology and Blood Transfusion",
+      "Medical Microbiology and Parasitology"
+    ],
+
     "Basic Medical Sciences": [
-      "Nursing Science",
       "Anatomy",
-      "Radiography",
+      "Medical Biochemistry",
+      "Medical Laboratory Science",
+      "Occupational Therapy",
       "Physiology",
       "Physiotherapy",
-      "Medical Biochemistry"
+      "Radiography and Radiation Science",
+      "Speech and Language Therapy"
     ],
+
+    "Computing": [
+      "Computer Science",
+      "Cyber Security",
+      "Data Science",
+      "Information and Communication Technology",
+      "Information Technology",
+      "Software Engineering"
+    ],
+
     "Dentistry": [
       "Preventive Dentistry",
       "Restorative Dentistry",
@@ -35,6 +59,7 @@
       "Oral Surgery and Pathology",
       "Oral Diagnosis and Radiology"
     ],
+
     "Education": [
       "Adult and Non-Formal Education",
       "Curriculum and Instructional Technology",
@@ -44,98 +69,151 @@
       "Human Kinetics and Sports Science",
       "Educational Management"
     ],
+
     "Engineering": [
+      "Agricultural Engineering",
       "Chemical Engineering",
       "Civil Engineering",
+      "Computer Engineering",
       "Electrical/Electronic Engineering",
+      "Industrial Engineering",
+      "Marine Engineering",
+      "Materials and Metallurgical Engineering",
       "Mechanical Engineering",
+      "Mechatronics Engineering",
       "Petroleum Engineering",
       "Production Engineering",
-      "Materials and Metallurgical Engineering"
+      "Structural Engineering",
+      "Surveying and Geoinformatics"
     ],
+
     "Environmental Sciences": [
       "Architecture",
+      "Building",
       "Estate Management",
+      "Fine and Applied Arts",
+      "Geography and Disaster Risk Management",
       "Geomatics",
-      "Quantity Surveying"
+      "Quantity Surveying",
+      "Urban and Regional Planning"
     ],
+
     "Law": [
       "Private and Property Law",
       "Public Law",
       "Business Law",
       "Jurisprudence and International Law"
     ],
+
     "Life Sciences": [
-      "Optometry",
-      "Microbiology",
-      "Biochemistry",
-      "Science Laboratory Technology",
       "Animal and Environmental Biology",
+      "Biochemistry",
+      "Botany",
+      "Environmental Management and Toxicology",
+      "Environmental Science",
+      "Microbiology",
       "Plant Biology and Biotechnology",
-      "Environmental Management and Toxicology"
+      "Zoology"
     ],
+
     "Management Sciences": [
       "Accounting",
+      "Actuarial Science",
       "Banking and Finance",
       "Business Administration",
+      "Entrepreneurship",
+      "Finance",
+      "Human Resource Management",
+      "Industrial Relations and Personnel Management",
       "Insurance",
       "Marketing",
-      "Entrepreneurship",
-      "Human Resource Management",
-      "Actuarial Science"
+      "Taxation"
     ],
+
     "Medicine": [
+      "Anaesthesiology",
+      "Anatomy",
+      "Child Health",
+      "Community Health",
+      "Haematology",
       "Medicine",
-      "Surgery",
-      "Radiology",
       "Mental Health",
-      "Medical Microbiology",
-      "Ophthalmology",
-      "Morbid Anatomy",
       "Obstetrics and Gynaecology",
-      "Orthopaedics and Traumatology"
+      "Ophthalmology",
+      "Orthopaedics and Traumatology",
+      "Otolaryngology",
+      "Pathology",
+      "Physiology",
+      "Radiology",
+      "Surgery"
     ],
+
+    "Nursing Sciences": [
+      "Nursing"
+    ],
+
+    "Optometry": [
+      "Optometry"
+    ],
+
     "Pharmacy": [
-      "Pharmacology and Toxicology",
-      "Pharmacognosy",
       "Clinical Pharmacy and Pharmacy Practice",
+      "Pharmacognosy",
+      "Pharmacology and Toxicology",
       "Pharmaceutical Chemistry",
       "Pharmaceutical Microbiology",
       "Pharmaceutics and Pharmaceutical Technology"
     ],
+
     "Physical Sciences": [
-      "Physics",
       "Chemistry",
-      "Mathematics",
       "Geology",
-      "Computer Science"
+      "Mathematics",
+      "Physics",
+      "Statistics"
     ],
+
+    "Science Laboratory Technology": [
+      "Applied Chemical Science Technology",
+      "Biomedical Science Laboratory Technology",
+      "Geophysical Science Laboratory Technology",
+      "Natural Science Laboratory Technology"
+    ],
+
     "Social Sciences": [
-      "Economics and Statistics",
+      "Economics",
       "Geography and Regional Planning",
-      "Political Science and Public Administration",
-      "Sociology and Anthropology",
-      "Social Work"
+      "Library and Information Science",
+      "Peace Studies and Conflict Resolution",
+      "Political Science",
+      "Psychology",
+      "Public Administration",
+      "Social Work",
+      "Sociology and Anthropology"
     ],
+
     "Veterinary Medicine": [
-      "Veterinary Obstetrics and Reproductive Diseases",
-      "Veterinary Medicine",
-      "Veterinary Surgery and Radiology",
       "Veterinary Anatomy",
+      "Veterinary Medicine",
       "Veterinary Microbiology",
-      "Veterinary Pathology",
-      "Veterinary Public Health and Epidemiology",
+      "Veterinary Obstetrics and Reproductive Diseases",
       "Veterinary Parasitology",
+      "Veterinary Pathology",
       "Veterinary Pharmacology and Toxicology",
-      "Veterinary Physiology and Biochemistry"
+      "Veterinary Physiology and Biochemistry",
+      "Veterinary Public Health and Epidemiology",
+      "Veterinary Surgery and Radiology"
     ],
-    "Basic Clinical Sciences": [
-      "_unverified: departments not published separately from the College of Medical Sciences at the time of writing"
-    ],
+
     "Vocational and Technical Education": [
-      "_unverified: now listed as its own faculty on the UNIBEN portal, department breakdown not separately published"
+      "_unverified: current 2026 faculty structure identified; public department-level breakdown not sufficiently established"
+    ],
+
+    "Communication and Media Studies": [
+      "Mass Communication"
     ]
   },
+
   "courses": [
     {
       "code": "GET205",
@@ -165,6 +243,7 @@
       "semester": "First Semester"
     }
   ],
+
   "resources": [
     {
       "id": "res_get205_2025_pq",
